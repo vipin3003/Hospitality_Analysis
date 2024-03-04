@@ -36,3 +36,5 @@ Things I learned over here:
 3. Understanding use of charts and developing DAX measured,
 4. Developing beautiful UI
 5. Giving smart narration to the dashboard.
+   
+## Checkout my Live Dashboard : https://app.powerbi.com/view?r=eyJrIjoiZDI3NDMxMTUtNjdiZS00ZmQ5LTg3YjktNWJmZmRjOGI1NzM2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9 
